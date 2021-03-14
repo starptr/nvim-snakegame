@@ -1,6 +1,6 @@
 # nvim-snakegame
 
-Play the classic Snakegame in vim!
+Play the classic Snakegame in neovim!
 
 ## vim-plug installation
 
