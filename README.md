@@ -11,3 +11,5 @@ Plug 'starptr/nvim-snakegame'
 ```
 
 Restart nvim and do `:PlugInstall` to install.
+
+Then, run `:SnakeGame` to start!
